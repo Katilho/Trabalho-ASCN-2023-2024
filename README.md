@@ -6,7 +6,7 @@
 - Pedro Miguel Castilho Martins
 
 # Grade  
-Grade: 18.6/20
+Grade: **18.6/20**
 
 # Comandos frequentes
 
